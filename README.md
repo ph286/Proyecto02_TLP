@@ -35,7 +35,7 @@ Este ejercicio implementa una función para calcular la longitud de una lista ut
 
  Ejercicio 7
 
-Este ejercicio implementa una función para buscar un elemento en una lista.
+La función palindromo en Racket es una función recursiva que verifica si un número entero positivo dado es un palíndromo. Un palíndromo es un número que se lee igual de izquierda a derecha que de derecha a izquierda. La función toma como entrada un número entero positivo y devuelve verdadero (#t) si el número es un palíndromo, y falso (#f) en caso contrario.
 
  Ejercicio 8
 
